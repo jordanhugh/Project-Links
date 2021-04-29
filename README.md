@@ -22,7 +22,7 @@ Project: https://github.com/CianLevy/twainz
 
 ## Computer Networks
 Language: C++\
-Project 1: Pending\
+Project 1: https://github.com/jordanhugh/Computer-Networks-Project-1 \
 Project 2: https://github.com/jordanhugh/Computer-Networks-Project-2
 
 ## Computer Graphics
