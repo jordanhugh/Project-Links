@@ -23,15 +23,15 @@ Project: https://github.com/CianLevy/twainz
 ## Computer Networks
 Language: C++\
 Project 1: Pending\
-Project 2:
+Project 2: https://github.com/jordanhugh/Computer-Networks-Project-2
 
 ## Computer Graphics
 Language: C++\
-Project:
+Project: Pending
 
 ## Augmented Reality
 Language: C#\
-Project:
+Project: 
 
 ## Digital Image and Video Processing
 Language: Matlab\
@@ -39,7 +39,7 @@ Assignment 1:\
 Assignment 2:\
 Assignment 3:
 
-## Deep Learning
+## Deep Learning and it's Application
 Language: Python\
 Assignment 1: Pending\
 ...
@@ -63,17 +63,20 @@ Project 3: https://github.com/jordanhugh/Scalable-Computing-Project3.git
 
 ## Real-Time Animation
 Language: C++\
-Assignment 1:\
-Assignment 2:\
-Assignment 3:\
-Project: ...
+Assignment 1: Pending\
+Assignment 2: Pending\
+Assignment 3: Pending\
+Project: Pending\
 
 ## Real-Time Rendering
 Language: C++\
-Assignment 1:\
-Assignment 2:\
-Assignment 3:\
-Assignment 4:
+Assignment 1: Pending\
+Assignment 2: Pending\
+Assignment 3: Pending\
+Assignment 4: Pending\
 
 ## Additional Information
-Check out my YouTube channel for videos of my Computer Graphics, Real-Time Animation and Real-Time Rendering Assignments!
+Check out my YouTube channel for videos of a few of my projections, particularly:
+- Computer Graphics
+- Real-Time Animation
+- Real-Time Rendering Assignments!
