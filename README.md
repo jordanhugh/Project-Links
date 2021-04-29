@@ -66,17 +66,17 @@ Language: C++\
 Assignment 1: Pending\
 Assignment 2: Pending\
 Assignment 3: Pending\
-Project: Pending\
+Project: Pending
 
 ## Real-Time Rendering
 Language: C++\
 Assignment 1: Pending\
 Assignment 2: Pending\
 Assignment 3: Pending\
-Assignment 4: Pending\
+Assignment 4: Pending
 
 ## Additional Information
-Check out my YouTube channel for videos of a few of my projections, particularly:
+Check out my YouTube channel for videos of a few of my projections! Particularly
 - Computer Graphics
 - Real-Time Animation
-- Real-Time Rendering Assignments!
+- Real-Time Rendering Assignments
