@@ -2,12 +2,12 @@
 
 ## Microprocessor Systems
 Language: ARM\
-Assignment 1:\
-Assignment 2:\
-Assignment 3:\
-Assignment 4:\
-Assignment 5:
-
+Practical 1: https://github.com/jordanhugh/Microprocessor-Systems-Practical-1.git \
+Practical 2: https://github.com/jordanhugh/Microprocessor-Systems-Practical-2.git \
+Practical 3: https://github.com/jordanhugh/Microprocessor-Systems-Practical-3.git \
+Practical 4: https://github.com/jordanhugh/Microprocessor-Systems-Practical-4.git \
+Practical 5: https://github.com/jordanhugh/Microprocessor-Systems-Practical-5.git
+ 
 ## Data Structures and Algorithms
 Langage: C\
 Assingment 0: https://github.com/jordanhugh/Data-Structures-and-Algorithms-Assignment-0.git \
@@ -31,33 +31,37 @@ Project: Pending
 
 ## Augmented Reality
 Language: C#\
-Project: 
+Project: https://github.com/jordanhugh/Augmented-Reality-Project.git
+Note: Report and Video only avilable. Project Files were too large to upload.
 
 ## Digital Image and Video Processing
 Language: Matlab\
-Assignment 1:\
-Assignment 2:\
-Assignment 3:
+Assignment 1: https://github.com/jordanhugh/Digital-Image-and-Video-Processing-Assignment-1.git \
+Assignment 2: https://github.com/jordanhugh/Digital-Image-and-Video-Processing-Assignment-2.git \
+Assignment 3: https://github.com/jordanhugh/Digital-Image-and-Video-Processing-Assignment-3.git
 
 ## Deep Learning and it's Application
 Language: Python\
 Assignment 1: Pending\
-...
+Assignment 2: Pending\
+Assignment 3: Pending\
+Assignment 4: Pending\
+Assignment 5: Pending\
+Assignment 6: Pending
 
 ## Machine Learning
 Language: Python\
-Assignment 1:\
-Assignment 2:\
-Assignment 3:\
-Assignment 4:\
-Assignment 5:\
-Assignment 6:\
+Assignment 1: https://github.com/jordanhugh/Machine-Learning-Assignment1.git \
+Assignment 2: https://github.com/jordanhugh/Machine-Learning-Assignment2.git \
+Assignment 3: https://github.com/jordanhugh/Machine-Learning-Assignment3.git \
+Assignment 4: https://github.com/jordanhugh/Machine-Learning-Assignment4.git \
+Assignment 5: https://github.com/jordanhugh/Machine-Learning-Assignment5.git \
+Assignment 6: https://github.com/jordanhugh/Machine-Learning-Assignment6.git \
 Project: https://github.com/jordanhugh/Machine-Learning-Project
 
 ## Scalable Computing
-Language:\
-Project 0:\
-Project 1: Depreciated\
+Language: Python
+Project 1: 
 Project 2: https://github.com/jordanhugh/Scalable-Computing-Project2.git \
 Project 3: https://github.com/jordanhugh/Scalable-Computing-Project3.git
 
@@ -79,4 +83,5 @@ Assignment 4: Pending
 Check out my YouTube channel for videos of a few of my projections! Particularly
 - Computer Graphics
 - Real-Time Animation
-- Real-Time Rendering Assignments
+- Real-Time Rendering
+- Augmented Reality
