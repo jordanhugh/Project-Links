@@ -1,48 +1,78 @@
 # Project-Links
 
-# Microprocessor Systems
+## Microprocessor Systems
 Language: ARM
-Github: 
+Assignment 1:
+Assignment 2:
+Assignment 3:
+Assignment 4:
+Assignment 5:
 
-# Data Structures and Algorithms
+## Data Structures and Algorithms
 Langage: C
-Github:
+Assingment 0:
+Assignment 1:
+Assignment 2:
+Assignment 3:
+Assignment 4:
 
-# Software Design and Implementation
+## Software Design and Implementation
 Language: Java
-Github: https://github.com/CianLevy/twainz
+Project: https://github.com/CianLevy/twainz
 
-# Computer Networks
+## Computer Networks
 Language: C++
-Github: 
+Project 1: Pending
+Project 2: 
 
-# Computer Graphics
+## Computer Graphics
 Language: C++
-Github: 
+Project:
 
-# Augmented Reality
+## Augmented Reality
 Language: C#
-Github:
+Project:
 
-# Digital Image and Video Processing
+## Digital Image and Video Processing
 Language: Matlab
-Github:
+Assignment 1:
+Assignment 2:
+Assignment 3:
 
-# Deep Learning
+## Deep Learning
 Language: Python
+Assignment 1: Pending
+...
 
-# Machine Learning
+## Machine Learning
 Language: Python
-Github:
+Assignment 1:
+Assignment 2:
+Assignment 3:
+Assignment 4:
+Assignment 5:
+Assignment 6:
+Project:
 
-# Scalable Computing
+## Scalable Computing
 Language:
-Github:
+Project 0:
+Project 1:
+Project 2:
 
-# Real-Time Animation
+## Real-Time Animation
 Language: C++
-Github:
+Assignment 1:
+Assignment 2:
+Assignment 3:
+Project: ...
 
-# Real-Time Rendering
+## Real-Time Rendering
 Language: C++
-Github:
+Assignment 1:
+Assignment 2:
+Assignment 3:
+Assignment 4:
+
+## YouTube Page
+Check out my YouTube channel for videos of my Computer Graphics, Real-Time Animation and Real-Time Rendering Assignments!
