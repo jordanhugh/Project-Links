@@ -80,7 +80,7 @@ Assignment 3: Pending\
 Assignment 4: Pending
 
 ## Additional Information
-Check out my YouTube channel for videos of a few of my projections! Particularly
+Check out my YouTube channel (https://www.youtube.com/channel/UCQ4WlxuXw-cPaWOgUbl7Hbw) for videos of a few of my projects! Particularly
 - Computer Graphics
 - Real-Time Animation
 - Real-Time Rendering
