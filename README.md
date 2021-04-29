@@ -41,7 +41,7 @@ Assignment 1: https://github.com/jordanhugh/Digital-Image-and-Video-Processing-A
 Assignment 2: https://github.com/jordanhugh/Digital-Image-and-Video-Processing-Assignment-2.git \
 Assignment 3: https://github.com/jordanhugh/Digital-Image-and-Video-Processing-Assignment-3.git
 
-## Deep Learning and it's Application
+## Deep Learning and It's Application
 Language: Python\
 Assignment 1: Pending\
 Assignment 2: Pending\
@@ -66,6 +66,10 @@ Project 1: https://github.com/jordanhugh/Scalable-Computing-Project1.git \
 Project 2: https://github.com/jordanhugh/Scalable-Computing-Project2.git \
 Project 3: https://github.com/jordanhugh/Scalable-Computing-Project3.git
 
+## Internet of Things
+Language: C#
+Project: https://github.com/jordanhugh/Internet-of-Things-Project.git
+
 ## Real-Time Animation
 Language: C++\
 Assignment 1: Pending\
@@ -80,10 +84,10 @@ Assignment 2: Pending\
 Assignment 3: Pending\
 Assignment 4: Pending
 
-
 ## Additional Information
 Check out my YouTube channel (https://www.youtube.com/channel/UCQ4WlxuXw-cPaWOgUbl7Hbw) for videos of a few of my projects! Particularly
-- Computer Graphics
-- Real-Time Animation
-- Real-Time Rendering
-- Augmented Reality
+- Computer Graphics (OpenGL Project)
+- Real-Time Animation (OpenGL and UE4 Projects)
+- Real-Time Rendering (OpenGL Projects)
+- Augmented Reality (Unity App)
+- Internet of Things (Unity App)
