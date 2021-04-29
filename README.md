@@ -10,11 +10,11 @@ Assignment 5:
 
 ## Data Structures and Algorithms
 Langage: C\
-Assingment 0:\
-Assignment 1:\
-Assignment 2:\
-Assignment 3:\
-Assignment 4:
+Assingment 0: https://github.com/jordanhugh/Data-Structures-and-Algorithms-Assignment-0.git
+Assignment 1: https://github.com/jordanhugh/Data-Structures-and-Algorithms-Assignment-1.git
+Assignment 2: https://github.com/jordanhugh/Data-Structures-and-Algorithms-Assignment-2.git
+Assignment 3: https://github.com/jordanhugh/Data-Structures-and-Algorithms-Assignment-3.git
+Assignment 4: https://github.com/jordanhugh/Data-Structures-and-Algorithms-Assignment-4.git
 
 ## Software Design and Implementation
 Language: Java\
@@ -52,13 +52,14 @@ Assignment 3:\
 Assignment 4:\
 Assignment 5:\
 Assignment 6:\
-Project:
+Project: https://github.com/jordanhugh/Machine-Learning-Project
 
 ## Scalable Computing
 Language:\
 Project 0:\
-Project 1:\
-Project 2:
+Project 1: Depreciated\
+Project 2: https://github.com/jordanhugh/Scalable-Computing-Project2.git
+Project 3: https://github.com/jordanhugh/Scalable-Computing-Project3.git
 
 ## Real-Time Animation
 Language: C++\
