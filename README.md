@@ -31,7 +31,7 @@ Project: Pending
 
 ## Augmented Reality
 Language: C#\
-Project: https://github.com/jordanhugh/Augmented-Reality-Project.git
+Project: https://github.com/jordanhugh/Augmented-Reality-Project.git \
 Note: Report and Video only avilable. Project Files were too large to upload.
 
 ## Digital Image and Video Processing
