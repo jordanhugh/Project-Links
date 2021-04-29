@@ -60,8 +60,8 @@ Assignment 6: https://github.com/jordanhugh/Machine-Learning-Assignment6.git \
 Project: https://github.com/jordanhugh/Machine-Learning-Project
 
 ## Scalable Computing
-Language: Python
-Project 1: 
+Language: Python\
+Project 1: https://github.com/jordanhugh/Scalable-Computing-Project1.git \
 Project 2: https://github.com/jordanhugh/Scalable-Computing-Project2.git \
 Project 3: https://github.com/jordanhugh/Scalable-Computing-Project3.git
 
